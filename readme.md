@@ -13,7 +13,7 @@ This simple script will help you to convert IP2Location Lite CSV database to Max
 
    Note: Download the database with **CSV** only.
 
-2. After you have download this repository, open you terminal and type `'python convert.py <database_name>'` or `'python convert.py <database_name>'` for those who have Python 2 and 3 installed.
+2. After you have download this repository, open you terminal and type `'python convert.py <database_name>'` or `'python3 convert.py <database_name>'` for those who have Python 2 and 3 installed.
 
 3. Now you can use Maxmind reader library to read the MMDB database.
 
